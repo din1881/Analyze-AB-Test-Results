@@ -1,6 +1,6 @@
-# Analyze-AB-Test-Results
-This is the second project in Udacity's Advanced Data Analysis Course. <br>
-The jubyter notebook is very detailed, and every step is thoroughly explained.<br>
+# Analyze AB Test Results
+This is the second project in Udacity's Advanced Data Analysis Course, where I perform some AB test results on the above dataset.:point_up:<br>
+The jubyter notebook is very detailed, and every step is thoroughly explained.:green_book::pencil2:<br>
 ## Dependencies
 To run this jupyter notebook, you need the following packages installed on your computer:
 - [ ] Jupyter 
